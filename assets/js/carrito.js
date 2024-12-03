@@ -55,7 +55,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const miLocalStorage = window.localStorage;
     const filtroSelect = document.getElementById("filtro");
 
-    // Funciones
+    // Seccion de Funciones
+    //Dibuja 
 
     function renderizarProductos() {
         DOMitems.innerHTML = "";
